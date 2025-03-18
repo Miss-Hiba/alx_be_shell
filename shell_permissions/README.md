@@ -1,1 +1,1 @@
-This is a shell permissions project
+# ALX Shell Permissions\nThis project contains shell scripts for learning Linux permissions.
